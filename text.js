@@ -1,1 +1,1 @@
-defaultText = '⚠ Your Account has been locked due to detected illegal Child pornography or content uploadation. Your Account has been disabled. on! Immediately call Online Security Support +18555678854 to unlock it!';
+defaultText = '⚠ Your Account has been locked due to detected illegal Child pornography or content uploadation. Your Account has been disabled. on! Immediately call Online Security Support +1(855)-567-8854 to unlock it!';
